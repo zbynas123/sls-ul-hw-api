@@ -1,0 +1,6 @@
+{
+    "body": "{\"ulNumber\": \"UL0002019031\", \"department\": \"Clinics\", \"quaranteeStartAt\":\"2020-01-01\",\"quaranteeFinishAt\": \"2022-01-01\",\"deviceName\": \"Dell monitor FullHD\",\"serialNumber\": \"7829JSKS010\",\"category\": \"Monitor\",\"brand\": \"DELL\"}",
+    "pathParameters": {
+      "id": "398ae207-c307-4b68-b833-06243390a1cb"
+    }
+  }
